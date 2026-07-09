@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use or build on the Inheritance Test, please cite it as below."
+title: "The Inheritance Test — a framework for assessing ownership"
+authors:
+  - family-names: Gretzinger
+    given-names: Julian
+version: "1.0"
+date-released: 2026-07-10
+url: "https://juliangretzinger.com/inheritance-test.html"
+repository-code: "https://github.com/juliangretzinger/inheritance-test"
+license: CC-BY-4.0
+keywords:
+  - ownership
+  - tokenization
+  - tokenised securities
+  - structured finance
+  - in rem
+  - custody
+  - settlement
+  - RWA
+abstract: >-
+  An open framework for establishing what the holder of a structured or
+  tokenised instrument actually owns. A wrapper inherits the properties of
+  its underlying and cannot bestow them; the test runs a structure through
+  three gates — economic, legal (in rem), and jurisdictional — to one of
+  five verdicts, with a companion operating instruction that lets an AI
+  assistant apply the method consistently, returning "indeterminate"
+  rather than guessing where the structure cannot be established.
