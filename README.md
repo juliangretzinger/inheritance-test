@@ -39,9 +39,9 @@ The test diagnoses **wrapper risk** — whether an instrument's form matches wha
 
 ## Versioning and citation
 
-Versioned; assessments cite the version they were made under. This is **v1.0** (2026). Cite as:
+Versioned; assessments cite the version they were made under. This is **v1.1** (2026). Cite as:
 
-> Julian Gretzinger, *The Inheritance Test*, version 1.0 (2026), juliangretzinger.com/inheritance-test.html
+> Julian Gretzinger, *The Inheritance Test*, version 1.1 (2026), juliangretzinger.com/inheritance-test.html
 
 GitHub's "Cite this repository" button uses [`CITATION.cff`](CITATION.cff).
 

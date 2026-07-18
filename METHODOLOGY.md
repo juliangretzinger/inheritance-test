@@ -1,10 +1,10 @@
-<!-- Mirror of the canonical text at https://juliangretzinger.com/inheritance-test.html — v1.0. The web page is the citable source; this copy exists for forking, diffing, and AI ingestion. -->
+<!-- Mirror of the canonical text at https://juliangretzinger.com/inheritance-test.html — v1.1. The web page is the citable source; this copy exists for forking, diffing, and AI ingestion. -->
 
 # The Inheritance Test
 
 ### A framework for assessing ownership
 
-*Version 1.0 — June 2026. This is analysis conducted under a published method. It assesses structures, not the people who build them, and it is not investment, legal, or tax advice. Published under a Creative Commons Attribution 4.0 licence — see Method notes.*
+*Version 1.1 — July 2026. This is analysis conducted under a published method. It assesses structures, not the people who build them, and it is not investment, legal, or tax advice. Published under a Creative Commons Attribution 4.0 licence — see Method notes.*
 
 ---
 
@@ -82,15 +82,17 @@ The identical logic governs a CSD book-entry or a manual register. Economic clai
 
 ## The verdict
 
-Verdicts are assigned **against a claim-set**. Every structure is run twice in principle: once against the claims as marketed, once against the claims an honest description would make. Where a structure fails the gates under its marketed claims but passes under honest ones, the defect is in the labelling, not the form — that is what *right structure, wrong claim* means, and it is why a Gate 1 failure against an inflated promise does not condemn a structure that never needed to make it.
+Verdicts are assigned **against a claim-set**. Every structure is run twice in principle: once against the claims as marketed, once against the claims an honest description would make. Where a structure fails the gates under its marketed claims but passes under honest ones, the defect is in the labelling, not the form — that is what *right structure, wrong label* means, and it is why a Gate 1 failure against an inflated promise does not condemn a structure that never needed to make it.
 
 Identify the binding constraint, run the gates, and reach one of five findings:
 
 - **Right wrapper** — the form matches the constraint and claims only what it delivers.
 - **Wrong wrapper** — the form promises a property the underlying cannot supply, under any honest description.
-- **Right structure, wrong claim** — the structure passes under an honest claim-set but fails under the marketed one, most often a claim sold as ownership. The remedy is disclosure, not redesign.
+- **Right structure, wrong label** — the structure passes under an honest claim-set but fails under the marketed one, most often a claim sold as ownership. The remedy is disclosure, not redesign.
 - **Right wrapper, wrong jurisdiction** — the form is correct but sited where its law does not carry it.
 - **Indeterminate** — the structure cannot be established from the available facts.
+
+A right-wrapper finding is a statement about form, not about the merits, solvency, or authenticity of the underlying.
 
 Then prescribe the correct form. The prescription is the point: the test does not merely say no, it says which wrapper the structure should have used. Name the kind of fix: a disclosure change, a restructuring within the existing jurisdiction, or a form or jurisdiction change — the type of fix tells the reader whether the defect costs a sentence, a mandate, or a legislator.
 
@@ -132,7 +134,7 @@ A token tracking a single listed share, backed one-for-one by shares held in cus
 - *Gate 2:* by the issuer's own disclosure, the holder has no shareholder rights, no vote, and no claim to the underlying shares or to residual assets on the company's liquidation — a creditor claim on the issuing vehicle, not equity.
 - *Gate 3:* settlement finality is genuine and is the real gain; legal recognition that the token is the share is absent.
 
-**Verdict: right structure, wrong claim.** Under the marketed claim-set — owning the share, trading it anytime — the structure fails Gates 1 and 2. Under an honest claim-set — a tokenised tracker on the share's price, settled continuously — it passes: the promises shrink to the two things token form actually changes. The structure is fine; the labelling is the fallacy, and the remedy is disclosure.
+**Verdict: right structure, wrong label.** Under the marketed claim-set — owning the share, trading it anytime — the structure fails Gates 1 and 2. Under an honest claim-set — a tokenised tracker on the share's price, settled continuously — it passes: the promises shrink to the two things token form actually changes. The structure is fine; the labelling is the fallacy, and the remedy is disclosure.
 
 ### 4 — Bank-issued tokenised collectibles under a recognising regime *(tokenised, one layer)*
 
@@ -168,11 +170,11 @@ A token purporting to carry a share in a private limited company, competently bu
 
 ## Method notes
 
-- **Versioning.** This methodology is versioned; assessments cite the version under which they were made. This is version 1.0.
+- **Versioning.** This methodology is versioned; assessments cite the version under which they were made. This is version 1.1.
 - **Scope of originality.** This framework does not claim to originate look-through analysis, which has clear antecedents in structured finance and property law. What it offers is a named, portable diagnostic — a specific vocabulary, gate structure, and verdict taxonomy — not previously formalised in this form.
 - **Standing of an assessment.** Each assessment is an opinion reached under this method, from material available at its verification date. It is not a rating, not advice, and not a recommendation to buy, sell, or hold.
 - **Facts before verdict.** No assessment is valid on an unestablished structure. Where a material fact cannot be verified, the verdict is *indeterminate*, and the gap is named.
 - **Independence and disclosure.** Assessments carry a conflict-disclosure flag. Where the author has, or may acquire, an interest in an assessed structure or a competing one, the matter is disclosed and, where independence cannot be preserved, recused. The governing conflicts policy is published separately.
 - **Right of reply.** Issuers of named structures may submit a response for publication alongside an assessment.
 - **Licence.** Published under a Creative Commons Attribution 4.0 International licence (CC BY 4.0). Anyone may use, adapt, and build on this method, for any purpose including commercial, provided the Inheritance Test and its author are credited.
-- **Canonical source and citation.** Published at juliangretzinger.com/inheritance-test.html. Cite as: Julian Gretzinger, *The Inheritance Test*, version 1.0 (2026).
+- **Canonical source and citation.** Published at juliangretzinger.com/inheritance-test.html. Cite as: Julian Gretzinger, *The Inheritance Test*, version 1.1 (2026).
