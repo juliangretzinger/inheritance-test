@@ -29,7 +29,7 @@ The instruction enforces the discipline that makes the output trustworthy: facts
 2. **Legal inheritance (the in-rem gate)** — property right or claim dressed as ownership? Protected entitlement or unsecured claim? What survives the intermediary's insolvency is the answer.
 3. **Jurisdictional realisation** — does the registration layer deliver settlement finality and a recognised locus of ownership under its governing law?
 
-Verdicts: **right wrapper · wrong wrapper · right structure, wrong claim · right wrapper, wrong jurisdiction · indeterminate.**
+Verdicts: **right wrapper · wrong wrapper · right structure, wrong label · right wrapper, wrong jurisdiction · indeterminate.**
 
 > The wrapper inherits; it does not bestow. Tokenisation changes settlement and the locus of ownership — not liquidity, not credit, not price.
 
