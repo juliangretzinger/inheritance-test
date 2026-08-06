@@ -42,6 +42,7 @@ The test diagnoses **wrapper risk** — whether an instrument's form matches wha
 Versioned; assessments cite the version they were made under. This is **v1.1** (2026). Cite as:
 
 > Julian Gretzinger, *The Inheritance Test*, version 1.1 (2026), juliangretzinger.com/inheritance-test.html
+> Archived at Zenodo: DOI 10.5281/zenodo.21286390
 
 GitHub's "Cite this repository" button uses [`CITATION.cff`](CITATION.cff).
 
